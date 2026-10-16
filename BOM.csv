@@ -1,2 +1,12 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+TCS34725 colour sensor (7 pins with white LED),1,AliExpress,$2.50,$2.50,
+GY-BME280-3.3 air sensor,1,AliExpress,$3.50,$3.50,
+TP4056 USB-C charger with DW01 protection,1,AliExpress,$1.53,$1.53,
+TZT 650nm 5mW 6mm laser dot module,1,AliExpress,$0.32,$0.32,
+Passive piezo buzzer 3.3V,1,AliExpress,$0.50,$0.50,
+NPN transistor TO-92 (S8050 or 2N3904),2,AliExpress,$0.50,$1.00,
+Schottky diode 1N5819 DO-41,1,AliExpress,$0.50,$0.50,
+"Resistor bags 0805 (10k, 1k, 100k, 4.7k)",4,AliExpress,$0.40,$1.60,
+"Capacitor bags 0805 25V (1uF, 100nF)",2,AliExpress,$0.45,$0.90,
+Female pin header 2.54mm 8 pins,1,AliExpress,$0.50,$0.50,
+Estimated total shipping,1,,$18.60,$18.60,
