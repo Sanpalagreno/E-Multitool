@@ -1,6 +1,12 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-ESP32 S3 C3 SuperMini,1,aliexpress,$4.13,$4.13,https://www.aliexpress.com/item/1005012248461806.html?spm=a2g0o.cart.0.0.caea38da16xUTp&mp=1&pdp_npi=6%40dis%21CAD%21CAD+14.37%21CAD+4.00%21%21CAD+4.00%21%21%21%402101ca8b17923541556428005e0f37%2112000057863641185%21ct%21CA%21-1%21%211%210%21
-GY-906-BAA,1,aliexpress,$10.68,$10.68,https://www.aliexpress.com/item/1005005542554020.html?spm=a2g0o.cart.0.0.caea38da16xUTp&mp=1&pdp_npi=6%40dis%21CAD%21CAD+10.68%21CAD+10.68%21%21CAD+10.68%21%21%21%402101ca8b17923541556428005e0f37%2112000033473603758%21ct%21CA%21-1%21%211%210%21
-VL53L1X laser,1,aliexpress,$7.09,$7.09,https://www.aliexpress.com/item/1005007324288727.html?spm=a2g0o.cart.0.0.caea38da16xUTp&mp=1&pdp_npi=6%40dis%21CAD%21CAD+7.09%21CAD+7.09%21%21CAD+7.09%21%21%21%402101ca8b17923541556428005e0f37%2112000040264285358%21ct%21CA%21-1%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
-Male pin headers,1,aliexpress,$7.13,$7.13,https://www.aliexpress.com/item/1005003642939564.html?spm=a2g0o.cart.0.0.caea38da16xUTp&mp=1&pdp_npi=6%40dis%21CAD%21CAD+7.13%21CAD+7.13%21%21CAD+7.13%21%21%21%402101ca8b17923541556428005e0f37%2112000026620972915%21ct%21CA%21-1%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
-Estimated total shipping,1,,,$0.00,
+TCS34725 colour sensor (7 pins with white LED),1,AliExpress,$2.50,$2.50,
+GY-BME280-3.3 air sensor,1,AliExpress,$3.50,$3.50,
+TP4056 USB-C charger with DW01 protection,1,AliExpress,$1.53,$1.53,
+TZT 650nm 5mW 6mm laser dot module,1,AliExpress,$0.32,$0.32,
+Passive piezo buzzer 3.3V,1,AliExpress,$0.50,$0.50,
+NPN transistor TO-92 (S8050 or 2N3904),2,AliExpress,$0.50,$1.00,
+Schottky diode 1N5819 DO-41,1,AliExpress,$0.50,$0.50,
+"Resistor bags 0805 (10k, 1k, 100k, 4.7k)",4,AliExpress,$0.40,$1.60,
+"Capacitor bags 0805 25V (1uF, 100nF)",2,AliExpress,$0.45,$0.90,
+Female pin header 2.54mm 8 pins,1,AliExpress,$0.50,$0.50,
+Estimated total shipping,1,,$18.60,$18.60,
